@@ -15,7 +15,7 @@ var player1score =0;
 var player2score =0;
 
 function preload(){
-  back_img = loadImage("images/jungle.jpg");
+  back_img = loadImage("images/jungle.png");
   player_img = loadImage("images/basket2.png");
   fruit1_img = loadImage("images/apple2.png");
   fruit2_img = loadImage("images/banana2.png");
